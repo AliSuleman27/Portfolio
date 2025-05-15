@@ -1,0 +1,132 @@
+{
+    "name": "Ali Suleman",
+    "email": "alisulemanrajpar27@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ali-suleman-a511942aa/",
+    "github": "https://github.com/AliSuleman27",
+    "phone": "+92-3107744817",
+    "education": [
+      {
+        "degree": "Bachelor of Science - Artificial Intelligence",
+        "university": "FAST National University",
+        "location": "Karachi, Pakistan",
+        "duration": "Aug 2022 - Aug 2026",
+        "gpa": "3.75/4.0",
+        "courses": "Operating Systems, Data Structures, Analysis Of Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Recommendation Systems, CV, NLP, Networking, Databases"
+      }
+    ],
+    "skills": {
+      "languages": [
+        {"name": "Python", "level": 90},
+        {"name": "C++", "level": 85},
+        {"name": "Dart", "level": 80},
+        {"name": "SQL", "level": 80},
+        {"name": "Bash", "level": 40},
+        {"name": "JAVA", "level": 60},
+        {"name": "Prolog", "level": 70}
+      ],
+      "frameworks": ["Flutter", "Scikit-Learn", "NLTK", "SpaCy", "TensorFlow", "Keras", "Django", "Flask", "PyTorch", "OpenCV", "PyGame"],
+      "tools": ["GIT", "Firebase", "MySQL", "SQLite", "Oracle", "MS Excel", "MS Access", "PowerBI", "PowerQuery"],
+      "platforms": ["Linux", "Web", "Windows", "GCP"],
+      "soft_skills": ["Leadership", "Event Management", "Writing", "Public Speaking", "Time Management"]
+    },
+    "experience": [
+      {
+        "company": "Nexpred Solutions, Pvt. Ltd.",
+        "location": "Remote",
+        "position": "Machine Learning Engineer (Trainee)",
+        "duration": "Mar 2025 – May 2025",
+        "responsibilities": [
+          "Working in the R&D team on designing, evaluating, and deploying computer vision models for real-world applications.",
+          "Implemented CV pipelines involving image preprocessing, classification, object detection, and verification using deep learning frameworks and nvidia deepstream engines."
+        ],
+        "link":"https://www.linkedin.com/company/nexpred-solutions/"
+      },
+      {
+        "company": "Wellness Innovations, LLC",
+        "location": "Remote, United States",
+        "position": "AI Software Engineer (Intern)",
+        "duration": "Jan 2025 – Apr 2025",
+        "responsibilities": [
+          "Built intelligent AI agents i.e. end-to-end database agents using NLP techniques as part of the research and development team."
+        ],
+        "link":"https://www.linkedin.com/company/wellness-innovations-inc-/"
+      },
+      {
+        "company": "VSL Lab, FAST Karachi",
+        "location": "Karachi, Pakistan",
+        "position": "Mobile Application Developer - Flutter",
+        "duration": "Sep 2024 – Mar 2025",
+        "responsibilities": [
+          "Designed responsive user interfaces for applications using Flutter.",
+          "Integrated Firebase APIs and managed backend services for real-time updates.",
+          "Worked on deployment and cloud integration for scalable mobile applications."
+        ],
+        "link":"https://www.linkedin.com/school/fastnu/"
+      },
+      {
+        "company": "FAST NUCES",
+        "position": "Teaching Assistant",
+        "duration": "Aug 2024 - Present",
+        "responsibilities": [
+          "Assisted in Data Structures, Operating Systems, and Artificial Intelligence courses by mentoring students, evaluating projects and quizzes, and supporting lab sessions and programming assignments across multiple semesters."
+        ],
+        "link" : "https://www.linkedin.com/school/fastnu/"
+
+      }
+    ],
+    "projects": [
+      {
+        "name": "Document Based QA Chatbot",
+        "technologies": "Python, Langchain, LLAMA2, Streamlit",
+        "description": "Developed a QA chatbot using Langchain, FaissDB for indexing, and LLAMA2 for document understanding. Deployed with Streamlit.",
+        "link" : "https://github.com/AliSuleman27/Chat-with-your-document-LLAMA2-LangChain"
+      },
+      {
+        "name": "Resume-Job Matching System",
+        "technologies": "Python, NLP, NER, Topic Modeling, Optimization",
+        "description": "Built a bilateral recommendation system to match resumes with job descriptions using Named Entity Recognition (NER) and topic modeling to extract key skills and roles. Employed a constraint-based optimization framework to ensure balanced assignments based on expertise, job coverage, and workload."
+        ,"link": "https://github.com/AliSuleman27/AI-Resume-Job-Matching"
+      },
+      {
+        "name": "Realtime Verification for Authorized Person (FACENET)",
+        "technologies": "Python, OpenCV, Face Recognition",
+        "description": "Developed a real-time face recognition system to verify authorized personnel using webcam feed. Achieved an accuracy of 92% using a FaceNet embedding-based approach.",
+        "link" : ""
+      },
+      {
+        "name": "Ontology Based Course Teacher Assignment",
+        "technologies": "RDF Turtle, Python, Streamlit",
+        "description": "Designed a detailed ontology of university teachers and courses to support automated teacher-course assignments. Used RDF Turtle for ontology creation and Python for reasoning and answering competency questions.",
+        "link" : "https://github.com/AliSuleman27/Ontology-Based-Course-Teacher-Assignment"
+      },
+      {
+        "name": "Ecommerce Website",
+        "technologies": "Django, HTML, CSS, Bootstrap, JavaScript, Python",
+        "description": "Built an e-commerce site for a laptop store using Django, with features like cart sessions, user authentication, product reviews, and price prediction via ML.",
+        "link" : "https://github.com/AliSuleman27/Django--Laptop-Selling-Ecommerce-Platform---AI-Integrate-"
+      },
+      {
+        "name": "Other Projects",
+        "description": "Realtime Chatting Application in Flutter x Firebase || Detailed PowerBI Reports and Analysis using MS Excel on various datasets || Music Player in Java Swing (DSA)|| Inventory Management System in Java (OOP)|| Parallel Analysis of Sorting Algorithms using OpenMP || Divide and Conquer Algorithm Visualizer in Python for Closet Pair, and Multiplication Problem",
+        "link" : "https://github.com/AliSuleman27?tab=repositories"
+      }
+    ],
+    "awards": [
+      {"title" : "3 x Gold Medalist | 1st Position in AI Department (4.00 SGPA) - Rectors List Of Honors | Fall 2023 | Spring 2024 | Fall 2025  " , "link": "https://www.nu.edu.pk/Campus/Karachi/RectorLists"},
+      {"title": "Deans' List: Earned name on Dean's List (3.61 SGPA) - 2nd Semester - Spring 23", "link": "https://www.nu.edu.pk/Campus/Karachi/DeanLists"}
+    ],
+    "volunteer": [
+      {
+        "organization": "Developer Student Club, FAST Karachi",
+        "position": "Outreach Assistant Manager",
+        "description": "Engaged with companies to organize events, secure sponsorships, and coordinate job fairs impacting over 3000 students.",
+        "link": ""
+      },
+      {
+        "organization": "Microsoft Learn Student Ambassadors (MLSA), FAST Karachi Chapter",
+        "position": "Co-Lead",
+        "description": "Arranged competitions, created problem sets for competitive events, and managed the technical aspects of competition",
+        "link":""
+      }
+    ]
+  }
