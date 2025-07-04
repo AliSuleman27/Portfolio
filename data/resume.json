@@ -30,6 +30,19 @@
       "soft_skills": ["Leadership", "Event Management", "Writing", "Public Speaking", "Time Management"]
     },
     "experience": [
+        {
+          "company" : "Genesys Research Lab, FAST ISB",
+          "location" : "Remote",
+          "position" : "NLP Research Intern"  
+          "duration" : "June 2025 - Present",
+          "responsibilities" : [
+              "Working with research implementation team and building AI agents, reproducing research work with enhanaced methods",
+              "Building end-end AI Agents for realtime usecase, handling backend, using NLP techniques, tools", 
+              "Integration and deployment of mulit-agent AI systems"
+          ],
+          "link" : ""  
+        },
+        
       {
         "company": "Nexpred Solutions, Pvt. Ltd.",
         "location": "Remote",
