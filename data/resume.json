@@ -1,16 +1,16 @@
 {
     "name": "Ali Suleman",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/ali-suleman-a511942aa/",
+    "linkedin": "https://www.linkedin.com/in/ali-suleman-as1/",
     "github": "https://github.com/AliSuleman27",
-    "phone": "+92-3107744817",
+    "phone": "+92-3098360687",
     "education": [
       {
         "degree": "Bachelor of Science - Artificial Intelligence",
         "university": "FAST National University",
         "location": "Karachi, Pakistan",
         "duration": "Aug 2022 - Aug 2026",
-        "gpa": "3.75/4.0",
+        "gpa": "3.79/4.0",
         "courses": "Operating Systems, Data Structures, Analysis Of Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Recommendation Systems, CV, NLP, Networking, Databases"
       }
     ],
@@ -24,8 +24,8 @@
         {"name": "JAVA", "level": 60},
         {"name": "Prolog", "level": 70}
       ],
-      "frameworks": ["Flutter", "Scikit-Learn", "NLTK", "SpaCy", "TensorFlow", "Keras", "Django", "Flask", "PyTorch", "OpenCV", "PyGame"],
-      "tools": ["GIT", "Firebase", "MySQL", "SQLite", "Oracle", "MS Excel", "MS Access", "PowerBI", "PowerQuery"],
+      "frameworks": ["Flutter", "Scikit-Learn", "NLTK", "SpaCy", "TensorFlow", "Keras", "Django", "Flask", "PyTorch", "OpenCV", "PyGame", "N8N"],
+      "tools": ["GIT", "Jira", "Firebase", "MySQL", "MonogDB", "SQLite", "Oracle", "MS Excel", "MS Access", "PowerBI", "PowerQuery"],
       "platforms": ["Linux", "Web", "Windows", "GCP"],
       "soft_skills": ["Leadership", "Event Management", "Writing", "Public Speaking", "Time Management"]
     },
